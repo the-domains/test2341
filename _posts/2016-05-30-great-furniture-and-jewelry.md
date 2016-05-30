@@ -1,12 +1,13 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: 'Great Furniture and Jewelry! Come check us out!'
-datePublished: '2016-05-30T05:51:53.600Z'
-dateModified: '2016-05-30T05:51:50.235Z'
+datePublished: '2016-05-30T05:55:14.376Z'
+dateModified: '2016-05-30T05:53:27.996Z'
 title: ''
 author:
   - name: ''
@@ -15,8 +16,7 @@ sourcePath: _posts/2016-05-30-great-furniture-and-jewelry.md
 authors: []
 publisher: null
 starred: true
-url: great-furniture-and-jewelry/index.html
-_type: Article
+_type: Blurb
 
 ---
 Great Furniture and Jewelry! Come check us out!
