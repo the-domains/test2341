@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Great Furniture and Jewelry! Come check us out!'
-datePublished: '2016-05-30T05:51:43.392Z'
-dateModified: '2016-05-30T05:51:32.686Z'
+datePublished: '2016-05-30T05:51:53.600Z'
+dateModified: '2016-05-30T05:51:50.235Z'
 title: ''
 author:
   - name: ''
