@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Great Furniture and Jewelry!'
-datePublished: '2016-05-30T05:33:50.119Z'
-dateModified: '2016-05-30T05:33:18.306Z'
+datePublished: '2016-05-30T05:38:10.589Z'
+dateModified: '2016-05-30T05:33:52.317Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-30-great-furniture-and-jewelry.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-30-great-furniture-and-jewelry.md
 url: great-furniture-and-jewelry/index.html
 _type: Article
 
