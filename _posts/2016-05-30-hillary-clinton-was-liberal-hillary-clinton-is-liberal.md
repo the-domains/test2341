@@ -16,8 +16,8 @@ keywords:
   - marriage
   - '2008'
 description: "So tired of people claiming Hillary is a Republican. She's not."
-datePublished: '2016-05-30T05:39:18.494Z'
-dateModified: '2016-05-30T05:39:03.058Z'
+datePublished: '2016-05-30T05:52:48.633Z'
+dateModified: '2016-05-30T05:52:44.990Z'
 author:
   - name: Harry Enten
     url: 'http://fivethirtyeight.com/contributors/harry-enten/'
