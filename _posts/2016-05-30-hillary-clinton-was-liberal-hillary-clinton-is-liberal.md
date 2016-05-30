@@ -16,8 +16,8 @@ keywords:
   - marriage
   - '2008'
 description: "So tired of people claiming Hillary is a Republican. She's not."
-datePublished: '2016-05-30T05:54:58.482Z'
-dateModified: '2016-05-30T05:53:13.544Z'
+datePublished: '2016-05-30T06:01:26.630Z'
+dateModified: '2016-05-30T06:01:22.854Z'
 author:
   - name: Harry Enten
     url: 'http://fivethirtyeight.com/contributors/harry-enten/'
@@ -39,4 +39,4 @@ _type: MediaObject
 ---
 So tired of people claiming Hillary is a Republican. She's not.
 
-<article style=""><h1>Hillary Clinton Was Liberal. Hillary Clinton Is Liberal.</h1><p>A bunch of reporters have recently discovered a shocking truth: Hillary Clinton is liberal! (I heard a rumor that Columbo has been helping with the investigation.) We've gotten this raft of "Clinton is liberal" exposés as Clinton has revved up her 2016 campaign, speaking out in support of gay marriage, a pathway to citizenship for immigrants in the U.S.</p><img src="https://espnfivethirtyeight.files.wordpress.com/2015/05/85357740.jpg?w=1200" /></article>
+<article style=""><p>A bunch of reporters have recently discovered a shocking truth: Hillary Clinton is liberal! (I heard a rumor that Columbo has been helping with the investigation.) We've gotten this raft of "Clinton is liberal" exposés as Clinton has revved up her 2016 campaign, speaking out in support of gay marriage, a pathway to citizenship for immigrants in the U.S.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8ac2b0ad8a2e8f242be4914464981a59624b8e8e.jpg" /></article>
