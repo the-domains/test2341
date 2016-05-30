@@ -1,6 +1,6 @@
 name: Test2341
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.41314
 typography_spectrum: 0.15203
 title: This is very testy
 cta:
@@ -22,8 +22,8 @@ color:
     - '#006633'
     - '#9d7161'
     - '#92a67a'
-  brandStrength: 0.5
-  lightness: 0.9860103221144527
-  saturation: 0.8649052337277681
+  brandStrength: 0.75
+  lightness: 0.75
+  saturation: 0.1875
   rhythmicContrast: 0.39449305017478764
 purpose: []
