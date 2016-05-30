@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Test2341]]></title>
-        <description><![CDATA[Test2341]]></description>
+        <title><![CDATA[This is very testy]]></title>
+        <description><![CDATA[This is very testy]]></description>
         <link>https://thegrid.ai/test2341/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 May 2016 05:07:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2016 05:21:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/test2341/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The "Cell Phones Cause Cancer" Myth That Just Won't Die]]></title>
+            <description><![CDATA[<article><h1>The "Cell Phones Cause Cancer" Myth That Just Won't Die</h1><p>In 1989, a New Yorker writer named Paul Brodeur published a story about Meadow Street in Guilford, Connecticut, where cancer cases had clustered near power lines and an electric substation. His influential book, called The Great Power Line Cover Up, followed in 1993.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/00b04d07312e0f070126b2931845eab7d918539f.jpg"></article>]]></description>
+            <link>https://www.buzzfeed.com/danvergano/cancer-and-cell-phones?utm_term=.naqqL27Vv#.cqEVl4mjG</link>
+            <guid isPermaLink="false">c685ba53-2a17-49e1-b80c-c194b0d6be80</guid>
+            <pubDate>Mon, 30 May 2016 05:21:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a5b538751781d7d3e53c4912c586c5f94bedf3f6.png" alt="" title="">]]></description>
