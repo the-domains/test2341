@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://zygorguides.com'
-  name: Zygorguides
-  favicon: 'http://zygorguides.com/favicon.png'
-  domain: zygorguides.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://zygorguides.com/launch/'
+inLanguage: en
 keywords:
   - zygor
   - activision
@@ -18,19 +16,24 @@ keywords:
   - guides
   - aswell
 description: 'The #1 best-selling in-game World of Warcraft leveling guides.'
-inLanguage: en
+datePublished: '2016-05-30T05:49:34.091Z'
+dateModified: '2016-05-30T05:49:33.925Z'
+author:
+  - name: Neefy
+    url: ''
+related: []
 app_links: []
-isBasedOnUrl: 'http://zygorguides.com/launch/'
 title: Zygor Guides
-datePublished: '2016-05-30T05:22:14.262Z'
-dateModified: '2016-05-30T05:21:49.507Z'
-starred: false
 sourcePath: _posts/2016-05-30-zygor-guides.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Zygorguides
+  domain: zygorguides.com
+  url: 'http://zygorguides.com'
+  favicon: 'http://zygorguides.com/favicon.png'
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Zygor Guides</h1><p>The #1 best-selling in-game World of Warcraft leveling guides.</p><img src="https://embedwistia-a.akamaihd.net/deliveries/f62c8dce882375b6629646d947e285a3309a41c4.jpg?image_crop_resized=210x119" /></article>
+<article style=""><h1>Zygor Guides</h1><p>The #1 best-selling in-game World of Warcraft leveling guides.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/44eacd0c786a7d802f86aaed7be7e97ace1701bc.jpg" /></article>
