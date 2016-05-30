@@ -1,6 +1,6 @@
 name: Test2341
 favicon: null
-layout_spectrum: 0.8390489451121539
+layout_spectrum: 1
 typography_spectrum: 0.8027436721604317
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.5316112996079028
+  brandStrength: 0.6875
   lightness: 0.9860103221144527
   saturation: 0.8649052337277681
   rhythmicContrast: 0.39449305017478764
